@@ -47,3 +47,7 @@ Metal: 50164
 Linux Mint 20.1:
 Single: 1779
 Multi: 9062
+
+Arch Linux
+Single-Core: 1752
+Multi-Core: 9147 
