@@ -5,11 +5,17 @@
 # My working setup:
 
 Nzxt h1 (case)
+
 Mother: Asus rog strix x570i
+
 CPU: AMD Ryzen 5600x
+
 RAM: 32gb (3600mz)
+
 GPU: Asus Rog Strix 5600 xt
+
 Ssd: Samsung Evo 960 (256gb)
+
 Ssd: Samsung Qvo 870 (1tb)
 
 Performance Comparison:
